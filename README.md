@@ -1,0 +1,2 @@
+# PracticeC
+Study C language
